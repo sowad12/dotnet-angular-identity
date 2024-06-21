@@ -1,0 +1,34 @@
+<div class="container">
+  <app-employee-form></app-employee-form>
+</div>
+<table class="table table-hover">
+    <thead>
+        <tr class="thead-dark">
+            <td *ngFor="let item of tableHeadingList">{{item}}</td>
+        </tr>
+
+    </thead>
+    <tbody>
+               <tr *ngFor="let item of EmployeeDataList">
+                 <td>{{item.name|| 'NA'}}</td>
+                 <td>{{item.lastName|| 'NA'}}</td>
+                 <td>{{item.email|| 'NA'}}</td>
+                 <td>{{item.dob|date}}</td>
+                 <td>{{item.designation.designationTitle|| 'NA'}}</td>
+                 <td>{{item.age}}</td>
+                 <td >
+                <div class="dropdown">
+                    <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Actions
+                   </button>
+                   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                     <a class="dropdown-item" href="#" (click)="updateEmployee(item)">Edit</a>
+                     <a class="dropdown-item" href="#" (click)="removeEmployee(item.id)">Delete</a>
+                   </div>
+                </div>
+
+                 </td>
+            
+               </tr>
+    </tbody>
+</table>

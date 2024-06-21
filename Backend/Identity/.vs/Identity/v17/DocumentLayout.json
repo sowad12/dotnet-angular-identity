@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\dotnet-angular Crud\\Backend\\Identity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\models\\viewmodel\\account\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\models\\viewmodel\\account\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\manager\\implementation\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\manager\\implementation\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\models\\viewmodel\\account\\confirmemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\models\\viewmodel\\account\\confirmemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\models\\viewmodel\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\models\\viewmodel\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\models\\viewmodel\\account\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\models\\viewmodel\\account\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\models\\viewmodel\\account\\emailsendviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\models\\viewmodel\\account\\emailsendviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\models\\viewmodel\\account\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\models\\viewmodel\\account\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\manager\\interface\\iaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\manager\\interface\\iaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\models\\ioptionmodel\\emailoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\models\\ioptionmodel\\emailoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\models\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\models\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\controllers\\playcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\controllers\\playcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\models\\ioptionmodel\\mailjetoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\models\\ioptionmodel\\mailjetoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\models\\ioptionmodel\\jwtoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\models\\ioptionmodel\\jwtoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|h:\\dotnet-angular crud\\backend\\identity\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42160B71-0B79-4C2D-9440-E588D06DE6E9}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\AccountController.cs",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Api\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAwNEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:04:51.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\ViewModel\\Account\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\ViewModel\\Account\\LoginViewModel.cs",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\ViewModel\\Account\\LoginViewModel.cs",
+              "RelativeToolTip": "Api\\Models\\ViewModel\\Account\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:25:23.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\ViewModel\\Account\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\ViewModel\\Account\\UserViewModel.cs",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\ViewModel\\Account\\UserViewModel.cs",
+              "RelativeToolTip": "Api\\Models\\ViewModel\\Account\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:12:57.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\ViewModel\\Account\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\ViewModel\\Account\\RegisterViewModel.cs",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\ViewModel\\Account\\RegisterViewModel.cs",
+              "RelativeToolTip": "Api\\Models\\ViewModel\\Account\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:24:08.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "Api\\Service\\EmailService.cs",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Service\\EmailService.cs",
+              "RelativeToolTip": "Api\\Service\\EmailService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswIAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:18:33.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfirmEmailViewModel.cs",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\ViewModel\\Account\\ConfirmEmailViewModel.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\ViewModel\\Account\\ConfirmEmailViewModel.cs",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\ViewModel\\Account\\ConfirmEmailViewModel.cs",
+              "RelativeToolTip": "Api\\Models\\ViewModel\\Account\\ConfirmEmailViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:39:40.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\ViewModel\\Account\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\ViewModel\\Account\\ResetPasswordViewModel.cs",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\ViewModel\\Account\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "Api\\Models\\ViewModel\\Account\\ResetPasswordViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:10:38.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Manager\\Implementation\\AccountManager.cs",
+              "RelativeDocumentMoniker": "Api\\Manager\\Implementation\\AccountManager.cs",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Manager\\Implementation\\AccountManager.cs",
+              "RelativeToolTip": "Api\\Manager\\Implementation\\AccountManager.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswBwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:57:57.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailSendViewModel.cs",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\ViewModel\\Account\\EmailSendViewModel.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\ViewModel\\Account\\EmailSendViewModel.cs",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\ViewModel\\Account\\EmailSendViewModel.cs",
+              "RelativeToolTip": "Api\\Models\\ViewModel\\Account\\EmailSendViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:19:53.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailOption.cs",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\IOptionModel\\EmailOption.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\IOptionModel\\EmailOption.cs",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\IOptionModel\\EmailOption.cs",
+              "RelativeToolTip": "Api\\Models\\IOptionModel\\EmailOption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:48:02.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAccountManager.cs",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Manager\\Interface\\IAccountManager.cs",
+              "RelativeDocumentMoniker": "Api\\Manager\\Interface\\IAccountManager.cs",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Manager\\Interface\\IAccountManager.cs",
+              "RelativeToolTip": "Api\\Manager\\Interface\\IAccountManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:57:39.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T14:58:41.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Api\\Helpers\\AutoMapperProfiles.cs",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Api\\Helpers\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:44:38.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\Entites\\User.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\Entites\\User.cs",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\Entites\\User.cs",
+              "RelativeToolTip": "Api\\Models\\Entites\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:11:29.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAiwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:59:13.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MailJetOption.cs",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\IOptionModel\\MailJetOption.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\IOptionModel\\MailJetOption.cs",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\IOptionModel\\MailJetOption.cs",
+              "RelativeToolTip": "Api\\Models\\IOptionModel\\MailJetOption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:47:46.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Service\\JwtService.cs",
+              "RelativeDocumentMoniker": "Api\\Service\\JwtService.cs",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Service\\JwtService.cs",
+              "RelativeToolTip": "Api\\Service\\JwtService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAhwAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:53:13.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlayController.cs",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Controllers\\PlayController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\PlayController.cs",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Controllers\\PlayController.cs",
+              "RelativeToolTip": "Api\\Controllers\\PlayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:22:49.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtOption.cs",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\IOptionModel\\JwtOption.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\IOptionModel\\JwtOption.cs",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Models\\IOptionModel\\JwtOption.cs",
+              "RelativeToolTip": "Api\\Models\\IOptionModel\\JwtOption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:55:52.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Api\\Properties\\launchSettings.json",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAABhwBoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T17:59:08.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "libman.json",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\libman.json",
+              "RelativeDocumentMoniker": "Api\\libman.json",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\libman.json",
+              "RelativeToolTip": "Api\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T18:18:42.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAABxwCAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T18:17:11.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Api\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "H:\\dotnet-angular Crud\\Backend\\Identity\\Api\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Api\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:13:27.244Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
