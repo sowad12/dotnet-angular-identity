@@ -1,42 +1,42 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # Compiled output
-/dist
-/tmp
-/out-tsc
-/bazel-out
+.Frontend/dist
+.Frontend/tmp
+.Frontend/out-tsc
+.Frontend/bazel-out
 
 # Node
 .Frontend/node_modules
-npm-debug.log
-yarn-error.log
+.Frontend/npm-debug.log
+.Frontend/yarn-error.log
 
 # IDEs and editors
-.idea/
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
+.Frontend/.idea/
+.Frontend/.project
+.Frontend/.classpath
+.Frontend/.c9/
+.Frontend/*.launch
+.Frontend/.settings/
+.Frontend/*.sublime-workspace
 
 # Visual Studio Code
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-.history/*
+.Frontend/.vscode/*
+!.Frontend/.vscode/settings.json
+!.Frontend/.vscode/tasks.json
+!.Frontend/.vscode/launch.json
+!.Frontend/.vscode/extensions.json
+.Frontend/.history/*
 
 # Miscellaneous
-/.angular/cache
-.sass-cache/
-/connect.lock
-/coverage
-/libpeerconnection.log
-testem.log
-/typings
+.Frontend/.angular/cache
+.Frontend/.sass-cache/
+.Frontend/.connect.lock
+.Frontend/.coverage
+.Frontend/.libpeerconnection.log
+.Frontend/.testem.log
+.Frontend/.typings
 
 # System files
-.DS_Store
-Thumbs.db
+.Frontend/.DS_Store
+.Frontend/Thumbs.db
